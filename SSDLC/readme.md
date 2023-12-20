@@ -24,7 +24,7 @@ Explains the need for dynamic analysis methods for smart contracts.
 ## Ensuring Stability
 Discusses strategies for ensuring the reliability of smart contracts.
 
-## accident Repository
+## Accident Repository
 Explains the importance and structure of maintaining an accident repository.
 
 ## Monitoring DApps
