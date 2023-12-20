@@ -4,7 +4,7 @@
 Briefly introduce the purpose of this document, the scope of the SSDLC, and its relevance to smart contracts and DevSecOps.
 
 ## SSDLC Phases for Smart Contracts
-Outline each phase of the Software Development Lifecycle specifically tailored for smart contracts.
+Describes each stage of the software development lifecycle and provides guidelines for embedding security specifically tailored for smart contracts.
 
 ## Secure Coding Guide
 
