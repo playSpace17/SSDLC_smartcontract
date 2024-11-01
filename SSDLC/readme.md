@@ -1,4 +1,4 @@
-## SSDLC for Smart Contract Development
+# SSDLC for Smart Contract Development
 This directory contains resources related to the Secure Software Development Lifecycle (SSDLC) for smart contract development. It includes guidelines, and checklists to help integrate security throughout all stages of the software development process.
 
 ## SSDLCGuideline
