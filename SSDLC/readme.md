@@ -1,4 +1,4 @@
-## DevSecOps for Smart Contract Development
+## SSDLC for Smart Contract Development
 
 ## Introduction
 This is a brief introduction to the purpose and scope of SSDLC for smart contracts, and explains how SSDLC for smart contracts is built by utilizing DevSecOps and adding various elements to existing DevSecOps to build SSDLC with extended security inherent in general SDLC.
