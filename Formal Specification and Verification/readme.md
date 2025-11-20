@@ -4,12 +4,12 @@ This repository contains research documents and resources related to smart contr
 It is structured to provide clear references for each topic, including ZK-based voting systems and formal methods for smart contracts.
 
 # Folder Structure
-## `ZK Voting/`
+## ZK Voting
 Contains materials related to zero-knowledge–based electronic voting systems.  
 A separate README inside the folder provides a brief explanation of the ZK voting model and its formal specification.
 
 # Files
-## `Formal Method for Smart Contract.pdf`
+## Formal Method for Smart Contract
 A brief technical document explaining how formal methods can be used to verify the correctness and security of smart contracts.  
 It covers:
 - Why smart contracts need strong correctness guarantees  
