@@ -19,3 +19,12 @@ Describes each stage of the software development lifecycle and provides guidelin
 - List of best practices for secure coding in Solidity.
 #### Common Vulnerabilities
 - Discuss common vulnerabilities in Solidity and how to avoid them.
+
+## Formal Specification and Verification
+### Formal Methods for Smart Contracts
+
+### ZK Voting
+#### Formal Specification & Verification for a Smart Contract–Based zk Electronic Voting System
+
+
+  
